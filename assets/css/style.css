@@ -1,0 +1,42 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+    color: #707070;
+}
+.color-fondo {
+    background-color: #E83E8C;
+}
+
+.card-title {
+    font-weight: 700;
+    color: #373A3C;
+}
+
+.card-text {
+    font-weight: 400;
+    color: #373A3C;
+}
+
+.card-link {
+    font-weight: 400;
+    color: #1C7CD5;
+}
+.navbar-brand img {
+    width: 132px;
+    height: 53px;
+}
+
+.icons-section {
+    background-color: #17A2B8;
+}
+.first-footer {
+    font-size: 80px;
+}
+
+.second-footer img {
+    width: 53px;
+    height: 100px;
+}
